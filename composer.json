@@ -1,0 +1,16 @@
+{
+    "name": "guziec/praktyki",
+    "description": "Strona do praktyk w celu ćwiczenia",
+    "autoload": {
+        "psr-4": {
+            "Guziec\\Praktyki\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guziec",
+            "email": "guziec@gmail.com"
+        }
+    ],
+    "require": {}
+}
