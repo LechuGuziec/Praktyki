@@ -8,3 +8,9 @@
     <script src="/js/app.js" defer></script>
 </head>
 <body>
+
+<header>
+    <h1><a href="/">Strona</a></h1>
+</header>
+
+<main>
